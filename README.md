@@ -1,6 +1,6 @@
 #  Elasticsearch For Java / Spring Developers
 
-![](.doc/elasticsearch-course.png)
+![](.doc/elasticsearch.png)
 
 As part of this repository, we will learn the power of Elasticsearch 8 and build blazing fast, intelligent search solutions! This comprehensive, hands-on course is designed for Java/Spring Boot developers who want to master full-text search, fuzzy matching, powerful aggregations and robust search engine architecture from the fundamentals to advanced topics.
 
