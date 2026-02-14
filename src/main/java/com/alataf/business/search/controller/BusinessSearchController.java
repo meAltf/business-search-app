@@ -23,7 +23,7 @@ public class BusinessSearchController {
     }
 
     @GetMapping("/api/suggestions")
-    public List<String> suggest(@RequestBody SuggestionRequestParameters parameters) {
+    public List<String> suggest(SuggestionRequestParameters parameters) {
         return this.suggestionService.fetchSuggestions(parameters);
     }
 
