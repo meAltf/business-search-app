@@ -1,0 +1,14 @@
+{
+  "analysis": {
+    "analyzer": {
+      "custom_description_analyzer": {
+        "type": "custom",
+        "tokenizer": "standard",
+        "filter": [
+          "lowercase",
+          "stop"
+        ]
+      }
+    }
+  }
+}

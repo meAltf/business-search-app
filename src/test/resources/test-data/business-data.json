@@ -1,0 +1,117 @@
+[
+  {
+    "id": "1",
+    "name": "Starbucks",
+    "description": "Popular coffee shop chain known for its coffee and snacks.",
+    "address": "123 Main Street, Seattle, WA",
+    "state": "Washington",
+    "location": { "lat": 47.6097, "lon": -122.3331 },
+    "category": ["Coffee Shop", "Cafe"],
+    "offerings": [ "Quick Bite", "Wi-Fi" ],
+    "avg_rating": 4.2,
+    "num_of_reviews": 120
+  },
+  {
+    "id": "2",
+    "name": "Walmart",
+    "description": "Retail chain offering groceries, clothing, electronics, and more.",
+    "address": "456 Elm Street, Bentonville, AR",
+    "state": "Arizona",
+    "location": { "lat": 36.3729, "lon": -94.2088 },
+    "category": ["Retail", "Grocery Store"],
+    "offerings": ["Groceries", "Pharmacy", "Pickup & Delivery"],
+    "avg_rating": 3.8,
+    "num_of_reviews": 230
+  },
+  {
+    "id": "3",
+    "name": "Whole Foods Market",
+    "description": "Organic grocery store with a wide range of natural products.",
+    "address": "789 Pine Street, Austin, TX",
+    "state": "Texas",
+    "location": { "lat": 30.2672, "lon": -97.7431 },
+    "category": ["Grocery Store", "Organic"],
+    "offerings": ["Groceries", "Pharmacy", "Pickup & Delivery"],
+    "avg_rating": 4.5,
+    "num_of_reviews": 150
+  },
+  {
+    "id": "4",
+    "name": "Barnes & Noble",
+    "description": "Nationwide bookstore chain with books, magazines, and gifts.",
+    "address": "321 Oak Avenue, New York, NY",
+    "state": "New York",
+    "location": { "lat": 40.7128, "lon": -74.0060 },
+    "category": ["Bookstore", "Retail"],
+    "avg_rating": 4.3,
+    "num_of_reviews": 85
+  },
+  {
+    "id": "5",
+    "name": "Ace Hardware",
+    "description": "Hardware store offering tools, paint, and building supplies.",
+    "address": "654 Maple Street, Chicago, IL",
+    "state": "Illinois",
+    "location": { "lat": 41.8781, "lon": -87.6298 },
+    "category": ["Hardware Store"],
+    "avg_rating": 4.1,
+    "num_of_reviews": 70
+  },
+  {
+    "id": "6",
+    "name": "Target",
+    "description": "Retail chain offering household items, groceries, and clothing.",
+    "address": "987 Spruce Street, Minneapolis, MN",
+    "state": "Minnesota",
+    "location": { "lat": 44.9778, "lon": -93.2650 },
+    "category": ["Retail", "Department Store"],
+    "offerings": ["Groceries", "Pickup & Delivery"],
+    "avg_rating": 4.0,
+    "num_of_reviews": 180
+  },
+  {
+    "id": "7",
+    "name": "Best Buy",
+    "description": "Electronics retailer with computers, TVs, and other tech products.",
+    "address": "111 Tech Drive, San Jose, CA",
+    "state": "California",
+    "location": { "lat": 37.3382, "lon": -121.8863 },
+    "category": ["Electronics", "Retail"],
+    "avg_rating": 4.2,
+    "num_of_reviews": 140
+  },
+  {
+    "id": "8",
+    "name": "Panera Bread",
+    "description": "Bakery-cafe chain with sandwiches, salads, and coffee.",
+    "address": "222 Bread Lane, St. Louis, MO",
+    "state": "Missouri",
+    "location": { "lat": 38.6270, "lon": -90.1994 },
+    "category": ["Cafe", "Bakery"],
+    "offerings": [ "Quick Bite" ],
+    "avg_rating": 4.4,
+    "num_of_reviews": 95
+  },
+  {
+    "id": "9",
+    "name": "Costco Wholesale",
+    "description": "Membership warehouse club with bulk groceries and goods.",
+    "address": "333 Wholesale Way, Issaquah, WA",
+    "state": "Washington",
+    "location": { "lat": 47.5301, "lon": -122.0326 },
+    "category": ["Wholesale", "Retail"],
+    "avg_rating": 4.6,
+    "num_of_reviews": 300
+  },
+  {
+    "id": "10",
+    "name": "Lowe's",
+    "description": "Home improvement store with tools, appliances, and garden supplies.",
+    "address": "444 Renovation Road, Charlotte, NC",
+    "state": "North Carolina",
+    "location": { "lat": 35.2271, "lon": -80.8431 },
+    "category": ["Home Improvement", "Retail"],
+    "avg_rating": 4.0,
+    "num_of_reviews": 160
+  }
+]

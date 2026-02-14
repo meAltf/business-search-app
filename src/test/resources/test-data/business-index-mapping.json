@@ -1,0 +1,46 @@
+{
+  "properties": {
+    "name": {
+      "type": "text"
+    },
+    "address": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text",
+      "analyzer": "custom_description_analyzer"
+    },
+    "state": {
+      "type": "keyword"
+    },
+    "location": {
+      "type": "geo_point"
+    },
+    "category": {
+      "type": "text",
+      "fields": {
+        "raw": {
+          "type": "keyword"
+        }
+      }
+    },
+    "offerings": {
+      "type": "text",
+      "fields": {
+        "raw": {
+          "type": "keyword"
+        }
+      }
+    },
+    "avg_rating": {
+      "type": "float"
+    },
+    "num_of_reviews": {
+      "type": "integer"
+    },
+    "url": {
+      "type": "keyword",
+      "index": false
+    }
+  }
+}
